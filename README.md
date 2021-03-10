@@ -2,7 +2,7 @@
 
 >  💻 Full-stack Software Engineer | Bootstrap + Django
 
-[![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/M_Shabeer_KP)
+[![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/mohamedshabeerkp?style=social)](https://twitter.com/M_Shabeer_KP)
 [![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
 [![GitHub: @Mohamed-Shabeer-KP](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Mohamed-Shabeer-KP)
 [![Gmail: mohamedshabeerkp](https://img.shields.io/badge/Gmail-availchet-red)](mailto:mohammedshabeerkp@gmail.com)
