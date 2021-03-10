@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm [Mohamed Shabeer K P](https://mohamedshabeerkp.netlify.app)! 👋
 
->  💻 Full-stack Software Engineer | Go + React
+>  💻 Full-stack Software Engineer | Bootstrap + Django
 
-[![Twitter: @availchet](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/availchet)
-[![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/chetanya-kandhari/)
-[![GitHub: @availchet](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/availchet)
-[![GitHub: @chetanyakan](https://img.shields.io/github/followers/chetanyakan?label=follow&style=social)](https://github.com/chetanyakan)
-<a href="https://dev.to/availchet">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chetanya Kandhari's DEV Profile" height="20" width="25">
-</a>
-[![Gmail: availchet](https://img.shields.io/badge/Gmail-availchet-red)](mailto:availchet@gmail.com)
-[![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/story/6241000)
+[![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/M_Shabeer_KP)
+[![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
+[![GitHub: @Mohamed-Shabeer-KP](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Mohamed-Shabeer-KP)
+[![Gmail: mohamedshabeerkp](https://img.shields.io/badge/Gmail-availchet-red)](mailto:mohammedshabeerkp@gmail.com)
+[![Stack Overflow: mohamedshabeerkp](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/9985283)](https://stackoverflow.com/users/story/9985283)
 
 I am a Full stack developer from :house: Gurgaon, India.
 
