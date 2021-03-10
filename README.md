@@ -2,16 +2,6 @@
 
 >  💻 Full-stack Software Engineer | Bootstrap + Django
 
-[cols="^.^,^.^,^.^"]
-|===
-|Layer1 |Layer2 |Layer3
-
-.4+|L1 Name .2+|L2 Name A |L3 Name A
-|L3 Name B
-.2+|L2 Name B |L3 Name C
-|L3 Name D
-|===
-
 [![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/M_Shabeer_KP?style=social)](https://twitter.com/M_Shabeer_KP)
 [![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-mohamed%20shabeer%20kp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-shabeer-kp/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
 [![GitHub: @Mohamed-Shabeer-KP](https://img.shields.io/github/followers/mohamed-shabeer-kp?label=follow&style=social)](https://github.com/Mohamed-Shabeer-KP)
