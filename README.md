@@ -8,33 +8,27 @@
 [![Gmail: mohamedshabeerkp](https://img.shields.io/badge/Gmail-mohamedshabeerkp-red)](mailto:mohammedshabeerkp@gmail.com)
 [![Stack Overflow: mohamed-shabeer-kp](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/9985283)](https://stackoverflow.com/users/story/9985283)
 
-I am a Full stack developer from :house: Gurgaon, India.
+I am a Full stack developer from :house: Kerala, India.
 
-My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
+My passion lies in solving challenging problems, developing applciations, and communicating complex ideas to non-technical stakeholders.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
-
-I enjoy learning new things and connecting with people across a range of industries. 
-If you ever want to bounce ideas off of me, please feel free to reach out. 😄
+In my spare time, I like to travel :walking:, listen to music :headphones: and watch movies :tv:.
 
 ## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true)
+![Mohamed Shabeer K P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-shabeer-kp&hide=["issues"]&show_icons=true&theme=dark)
+
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C, C++, Java
+- **FrontEnd**: React
+- **BackEnd**: Node.js
+- **Mobile**: Android
+- **UI Frameworks**: Bootstrap
+- **Web technologies**: HTML5, CSS3, ES7+
+- **Databases**: MySQL, PostgreSQL, Firebase
+- **Misc**: Git
+- **Languages**: C, C++, Java, Python
 
 ---
 
-[![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet)
+[![HitCount](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP.svg)](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP)
