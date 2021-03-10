@@ -3,7 +3,7 @@
 >  💻 Full-stack Software Engineer | Bootstrap + Django
 
 [![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/M_Shabeer_KP?style=social)](https://twitter.com/M_Shabeer_KP)
-[![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
+[![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-Mohamed%Shabeer%20KP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
 [![GitHub: @Mohamed-Shabeer-KP](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Mohamed-Shabeer-KP)
 [![Gmail: mohamedshabeerkp](https://img.shields.io/badge/Gmail-availchet-red)](mailto:mohammedshabeerkp@gmail.com)
 [![Stack Overflow: mohamedshabeerkp](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/9985283)](https://stackoverflow.com/users/story/9985283)
