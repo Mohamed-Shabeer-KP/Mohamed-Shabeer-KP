@@ -6,7 +6,7 @@
 [![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-mohamed%20shabeer%20kp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-shabeer-kp/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
 [![GitHub: @Mohamed-Shabeer-KP](https://img.shields.io/github/followers/mohamed-shabeer-kp?label=follow&style=social)](https://github.com/Mohamed-Shabeer-KP)
 [![Gmail: mohamedshabeerkp](https://img.shields.io/badge/Gmail-mohamedshabeerkp-red)](mailto:mohammedshabeerkp@gmail.com)
-[![Stack Overflow: mohamedshabeerkp](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/9985283)](https://stackoverflow.com/users/story/9985283)
+<a href="https://stackoverflow.com/users/story/9985283"><img src="https://stackoverflow.com/users/flair/9985283.png?theme=dark" width="208" height="58" alt="profile for Mohamed Shabeer kp at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mohamed Shabeer kp at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 I am a Full stack developer from :house: Gurgaon, India.
 
