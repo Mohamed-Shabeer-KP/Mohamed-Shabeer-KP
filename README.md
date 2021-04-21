@@ -31,6 +31,6 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmohamedshabeerkp.netlify.app&count_bg=%2325E6E3&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmohamedshabeerkp.netlify.app&count_bg=%233175C8&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=mohamedshabeerkp.netlify.app&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-Shabeer-KP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
