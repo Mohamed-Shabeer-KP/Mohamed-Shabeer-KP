@@ -31,4 +31,4 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 
 ---
 
-[![HitCount](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP.svg)](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP)]
+![HitCount](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP.svg)](http://hits.dwyl.com/mohamed-shabeer-kp/Mohamed-Shabeer-KP)
