@@ -1,5 +1,4 @@
 # Hi, I'm [Mohamed Shabeer K P](https://mohamedshabeerkp.netlify.app)! 👋
-[![Netlify Status](https://api.netlify.com/api/v1/badges/550a55ab-fb87-4c6a-9100-d6b1c4613034/deploy-status)](https://app.netlify.com/sites/mohamedshabeerkp/deploys)
 
 >  💻 Full-stack Software Engineer | Bootstrap + Django
 
@@ -32,6 +31,6 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmohamedshabeerkp.netlify.app&count_bg=%233175C8&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=mohamedshabeerkp.netlify.app&edge_flat=false)](https://mohamedshabeerkp.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/550a55ab-fb87-4c6a-9100-d6b1c4613034/deploy-status)](https://app.netlify.com/sites/mohamedshabeerkp/deploys) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmohamedshabeerkp.netlify.app&count_bg=%233175C8&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=mohamedshabeerkp.netlify.app&edge_flat=false)](https://mohamedshabeerkp.netlify.app/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-Shabeer-KP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/Mohamed-Shabeer-KP)
