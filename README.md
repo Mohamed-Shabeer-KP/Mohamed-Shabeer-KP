@@ -1,4 +1,5 @@
 # Hi, I'm [Mohamed Shabeer K P](https://mohamedshabeerkp.netlify.app)! 👋
+[![Netlify Status](https://api.netlify.com/api/v1/badges/550a55ab-fb87-4c6a-9100-d6b1c4613034/deploy-status)](https://app.netlify.com/sites/mohamedshabeerkp/deploys)
 
 >  💻 Full-stack Software Engineer | Bootstrap + Django
 
