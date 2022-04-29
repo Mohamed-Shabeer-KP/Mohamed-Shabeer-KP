@@ -1,6 +1,6 @@
 # Hi, I'm [Mohamed Shabeer K P](https://mohamedshabeerkp.netlify.app)! 👋
 
->  💻 Full-stack Software Engineer | Bootstrap + Django
+>  💻 .Net Full-stack Software Engineer | Bootstrap + Django
 
 [![Twitter: @M_Shabeer_KP](https://img.shields.io/twitter/follow/M_Shabeer_KP?style=social)](https://twitter.com/M_Shabeer_KP)
 [![Linkedin: mohamed-shabeer-kp](https://img.shields.io/badge/-mohamed%20shabeer%20kp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-shabeer-kp/)](https://www.linkedin.com/in/mohamed-shabeer-kp/)
