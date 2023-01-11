@@ -35,10 +35,10 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-Shabeer-KP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/Mohamed-Shabeer-KP)
 
-![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/quartz/github-pages?label=Quartz&logo=vercel)
+![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/quartz/github-pages?label=Quartz&logo=github)
 
 ![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/BookIt/production?label=BookIt&logo=vercel)
 
 ![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/tales-by-light/production?label=Tales-By-Light&logo=vercel)
 
-![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/BSides-OLD/github-pages?label=BSides-Kochi&logo=vercel)
+![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/BSides-OLD/github-pages?label=BSides-Kochi&logo=github)
