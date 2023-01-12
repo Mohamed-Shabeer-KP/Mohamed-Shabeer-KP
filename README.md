@@ -18,9 +18,9 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 [![Stack Overflow: mohamed-shabeer-kp](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/9985283)](https://stackoverflow.com/users/story/9985283)
 
 
-## ⚡ Stats
+<!-- ## ⚡ Stats
 ![Mohamed Shabeer K P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-shabeer-kp&hide=["issues"]&show_icons=true&theme=dark)
-
+ -->
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React
