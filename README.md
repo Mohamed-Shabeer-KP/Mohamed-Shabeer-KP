@@ -37,7 +37,7 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 ## 🖥️ Applications Status 🖥️
 
 
-| URL      | Status |
+| Apps      | Status |
 | ----------- | ----------- |
 | [Quartz](https://mohamed-shabeer-kp.github.io/quartz/)| ![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/quartz/github-pages?label=Quartz&logo=github)|
 | [BookIt](https://book-it-now.vercel.app/)| ![GitHub deployments](https://img.shields.io/github/deployments/mohamed-shabeer-kp/BookIt/production?label=BookIt&logo=vercel)|
