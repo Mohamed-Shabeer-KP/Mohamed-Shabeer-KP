@@ -23,10 +23,10 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
  -->
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React
-- **BackEnd**: Node.js
+- **FrontEnd**: React , .NET MVC
+- **BackEnd**: Node.js , .NET API
 - **Mobile**: Android
-- **UI Frameworks**: Bootstrap
+- **Frameworks**: .NET, Bootstrap
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Databases**: MySQL, PostgreSQL, Firebase
 - **Misc**: Git
