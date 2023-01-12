@@ -30,7 +30,7 @@ In my spare time, I like to travel :walking:, listen to music :headphones: and w
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Databases**: MySQL, PostgreSQL, Firebase
 - **Misc**: Git
-- **Languages**: C, C++, Java, Python
+- **Languages**: C, C++, C#, Java, Python
 
 ---
 
